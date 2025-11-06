@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Q2 Project</title>
+	
+
+	<style>
+	
+
+input::placeholder{
+	color: rgb(6, 6, 87);
+
+}
+button, input[type="reset"] {
+	font-size: 18px;
+	font-family: Consolas;
+	background-color: #03a1fc;
+	border-radius: 15px;
+}
+
+
+
+
+lable{
+	font-size: 18px;
+	font-family: Consolas;
+}
+h1{
+
+	font-family: Consolas;
+}
+
+</style>
+
+</head>
+<body>
+	
+
+
+	<link rel="stylesheet" href="mytyle.css">
+
+
+
+</head>
+<body>
+
+<head>
+	<style>
+		ul{
+			list-style-type: My Work;
+			margin: 0;
+			padding: 0;
+			overflow: hidden;
+			background-color: #090909;
+		}
+		ul li a {
+			display: block;
+			color:rgb(253, 253, 253);
+			text-align: left;
+			padding: 14px 16px;
+			text-decoration: none;
+		}
+		ul li {
+			float: left;
+		}
+		.footer {
+			position: fixed;
+			left: 0;
+			bottom: 0;
+			width: 100%;
+			background-color: rgb(255, 255, 255);
+			color: rgb(12, 57, 194);
+			text-align: center;
+		}
+		#st{
+			height: 150px;
+			width: 200px;
+		}
+	</style>
+
+
+</head>
+<body>
+    <header>
+        <img src="OBMC LOGO.jpg" alt="OBMC logo">
+        <nav>   
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About Us</a></li>
+        <li><a href="#">Admissions</a></li>
+        <li><a href="#">Academics</a></li>
+        <li><a href="#">Campuses</a></li>
+        <li><a href="#">My Portal</a></li>
+       </nav>
+    </header>    
+    <h2>Empowering Future Leaders</h2>
+    <h1>O.B. Montessori Center</h1>
+    <p>At O.B.M.C. each child is nurtured in the holistic method of Dr. Maria Montessori.</p>
+  
+    <main>
+    <div>
+        <img src="CASA.png" alt="Screenshot of Casa"> 
+        <h3>Casa</h3>
+        <img src="PRIMARY.png" alt="Screenshot of Primary"> 
+        <h3>Primary</h3>
+        <img src="INTERMED.png" alt="Screenshot of Intermediate">
+        <h3>Intermediate</h3>
+    </div>
+    </main>
+    <Footer>
+        <p>Contact us Email: info@obmontessori.edu.ph | Phone: +63 2 8722 9720 to 26</p>
+        <div>
+            <img src="insta logo.png" alt="insta logo">
+            <img src="FB logo.avif" alt="Facebook logo">
+            <img src="utube logo.png" alt="youtube logo">
+        </div>
+    </Footer>
+
+
+    
+    
+</body>
+
+	
+
+	
+	</p>
+
+	<div class="footer">
+		<p>Contact Us info@obmontessori.edu.ph +63 2 8722 9720 to 26 <img id="fb" src="fb pq2.png" alt="Ict 9 Project 1 HTML"><img id="insta" src="insta pq2.png" alt="Ict 9 Project 1 HTML"> <img id="yt" src="yt pq2.png" alt="Ict 9 Project 1 HTML"> </p>
+
+	</div>
+
+</body>
+</html>
